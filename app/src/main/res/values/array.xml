@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>스포츠</item>
+        <item>TV톡</item>
+        <item>문화</item>
+        <item>뷰티 &amp; 스타일</item>
+        <item>취업 &amp; 직장</item>
+        <item>연애</item>
+        <item>운동</item>
+        <item>여행</item>
+        <item>일상</item>
+
+    </string-array>
+
+    <string-array name="total">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

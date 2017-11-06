@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">왁자지껄</string>
+
+    <string name="title_section1">전체</string>
+    <string name="title_section2">스포츠</string>
+    <string name="title_section3">TV톡</string>
+    <string name="title_section4">문화</string>
+    <string name="title_section5">뷰티스타일</string>
+    <string name="title_section6">취업직장</string>
+    <string name="title_section7">연애</string>
+    <string name="title_section8">운동</string>
+    <string name="title_section9">여행</string>
+    <string name="title_section10">일상</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
